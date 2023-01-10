@@ -1,6 +1,6 @@
 class operaciones:
-    def suma(num1,num2):
+    def suma(self,num1 : int ,num2 : int):
         return num1 + num2
 
-    def resta(num1,num2):
+    def resta(self,num1 : int ,num2 : int):
         return num1 - num2
